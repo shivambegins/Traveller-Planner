@@ -1,0 +1,24 @@
+# Node modules - heavy and re-installable
+node_modules/
+
+# Build folder - auto-generated
+dist/
+
+# Environment variables - contains secrets
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs (optional)
+.vscode/
+.idea/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Caches
+.cache/
